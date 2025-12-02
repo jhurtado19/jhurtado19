@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jhurtado19
-- 🌱 I’m currently learning C++, and TensorFlow
 - 📫 How to reach me jhurtado5179@sdsu.edu
 
 <!---
